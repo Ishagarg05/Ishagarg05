@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Isha Garg
+- 🌱 I’m currently learning Machine Learning 
+- 📫 How to reach me via my email ishagarg2425@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am a Engineering student.
